@@ -1,7 +1,6 @@
-Attribute VB_Name = "Module1"
 
 Public Sub TestGitHubUpdate()
 
-    MsgBox "Version 1 - Original macro", vbInformation, "VBA Test"
+    MsgBox "Version 2 - Updated from GitHub", vbInformation, "VBA Test"
 
 End Sub
